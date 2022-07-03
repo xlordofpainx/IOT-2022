@@ -2,8 +2,8 @@ import network
 import time
 
 
-WIFI_SSID = "VIVACOM_FiberNet_93D4"
-WIFI_PASS = "zaniK2KMcs" # No this is not our regular password. :)
+WIFI_SSID = "username"
+WIFI_PASS = "password" # No this is not our regular password. :)
 
 # setup as a station
 wlan = network.WLAN(mode=network.WLAN.STA)

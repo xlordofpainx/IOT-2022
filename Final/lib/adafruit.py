@@ -13,7 +13,7 @@ import micropython            # Needed to run any MicroPython code
 AIO_SERVER = "io.adafruit.com"
 AIO_PORT = 1883
 AIO_USER = "xlordofpainx"
-AIO_KEY = "aio_uklA80uUvC4m6nMP7WpSxsn6Ne0W"
+AIO_KEY = "key"
 AIO_CLIENT_ID = bytes('client_'+'12321','utf-8') #random
 AIO_CONTROL_FEED = "xlordofpainx/feeds/battery-temperature"
 AIO_CONTROL_FEED2 = "xlordofpainx/feeds/temp2"
